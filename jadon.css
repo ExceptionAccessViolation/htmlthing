@@ -1,0 +1,68 @@
+body {
+    font-size: 22px;
+    font-family: JetBrains Mono; 
+    background-color: #000000;
+    color: whitesmoke;
+    border: dotted;
+    border-radius: 15px;
+    padding: 25px;
+}
+
+h1 {
+    text-align: center;
+    text-shadow: 1px 1px 5px cornflowerblue;
+}
+
+h2 {
+    text-align: center;
+    font-size: 35px;
+}
+
+#ashwintime {
+    padding: 25px;
+    border: #a73636 dotted;
+    border-radius: 50px;
+}
+
+#ashwintimeh2 {
+    text-shadow: 3.5px 2px 5px #a73636;
+}
+
+#ashwintimewidget {
+    text-align: center;
+}
+
+#links {
+    padding: 25px;
+    border: #1725a7 dotted;
+    border-radius: 50px;
+}
+
+#linksh2 {
+    text-shadow: 3.5px 2px 5px #1725a7;
+}
+
+#spotify {
+    padding: 25px;
+    border: #1ed760 dotted;
+    border-radius: 50px;
+}
+
+#spotifyh2 {
+    text-shadow: 1px 1px 5px #1ed760;
+}
+
+#spotifyheader {
+    text-align: center;
+}
+
+#profile {
+    padding: 5px;
+    border: rgb(39, 39, 39) solid;
+    border-radius: 5px;
+}
+
+#topartistslabel {
+    text-align: center;
+    font-size: 30px;
+}
